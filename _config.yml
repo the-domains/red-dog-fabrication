@@ -1,0 +1,59 @@
+color:
+  brandColors:
+    - '#41302C'
+    - '#E3DBD3'
+    - '#AB392C'
+    - '#655D5B'
+    - '#B6B2AD'
+  brandStrength: 0.25639979424886405
+  lightness: 0.8334248892497271
+  saturation: 0.6295310147106647
+  rhythmicContrast: 0.4136103675700724
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Red Dog Fabrication
+layout_spectrum: 0.10367855802178383
+typography_spectrum: 0.21749352547340095
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a3c8a0e-e663-4d70-aad9-66c31be68b39.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a3c8a0e-e663-4d70-aad9-66c31be68b39.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Red Dog Fabrication
+description: For all your Off-Road Fabrication needs!
+purpose:
+  - type: contact
+    url: 'tel:4035429520'
+    label: 'Phone: 403-542-9520'
+  - type: contact
+    url: 'mailto:brad@reddogfabrication.ca'
+    label: 'Email: brad@reddogfabrication.ca'
+github: true
+author:
+  name: Brad MacDonald
+  email: brad@reddogfabrication.ca
